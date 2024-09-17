@@ -53,8 +53,12 @@ Operations
 Installation and Running the Program
 
 To run the GatorTaxi program with a specific input file, use the following command in the terminal:
+```bash
 make run input_file=input.txt
+```
+```bash
 python3 gatorTaxi.py < input.txt
+```
 	•	Replace input.txt with the name of your input file.
 	•	The program will automatically generate the output file output_file.txt in the same directory.
 

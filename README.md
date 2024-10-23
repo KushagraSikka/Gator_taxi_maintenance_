@@ -1,6 +1,8 @@
 GatorTaxi Ride-Share Service
 
 Author: Kushagra Sikka
+Submitted to Dr. Sartaj Sahni 
+He is a highly distinguished professor of Computer and Information Science and Engineering at the University of Florida. He is renowned globally for his contributions to the field of algorithms and data structures, with specific expertise in algorithm design, parallel computing, and optimization. Dr. Sahni has authored numerous textbooks, research papers, and articles that have had a significant impact on computer science education and research.
 
 Introduction
 
